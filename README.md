@@ -26,7 +26,7 @@ class ReverseStringNumber
 
 
 
-2.Stringreverse check it is palindrone or not by using Scannerprogram
+2.Stringreverse check it is palindrome or not by using Scannerprogram
 
  import java.util.Scanner;
 class ReverseStringNumber 
